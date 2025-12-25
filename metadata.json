@@ -1,0 +1,5 @@
+{
+  "name": "Hệ Thống Ôn Thi Ỉa Vào Mồm EDUQUIZ.VN",
+  "description": "Công cụ tự động chuyển đổi file đề thi PDF thành bài trắc nghiệm tương tác với sự hỗ trợ của AI Gemini.",
+  "requestFramePermissions": []
+}
